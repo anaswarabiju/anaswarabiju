@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anaswara Biju</h1>
 <h3 align="center">A Tech enthusiast but more importantly I'm very much interested in technology.</h3>
 
-<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Felectronic-circuit-video-TS06B5&psig=AOvVaw2YOJzVXu_3Wxc9y-gkeMv6&ust=1708535004028000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDejY2zuoQDFQAAAAAdAAAAABAS>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaswarabiju&label=Profile%20views&color=0e75b6&style=flat" alt="anaswarabiju" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaswarabiju" alt="anaswarabiju" /></a> </p>
