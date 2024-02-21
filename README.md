@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anaswara Biju</h1>
 <h3 align="center">A Tech enthusiast but more importantly I'm very much interested in technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaswarabiju&label=Profile%20views&color=0e75b6&style=flat" alt="anaswarabiju" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaswarabiju" alt="anaswarabiju" /></a> </p>
 
 - 🌱 I’m currently learning **Electronics Lab Skills,Circuit Analysis and Design,Microcontrollers and Embedded Systems**
 
