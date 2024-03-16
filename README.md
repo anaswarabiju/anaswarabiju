@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anaswara Biju</h1>
-<h3 align="center">A Tech enthusiast but more importantly I'm very much interested in technology.</h3>
+<h3 align="center">A Tech enthusiast but more importantly I'm very much interested in innovation.</h3>
 
 - 🌱 I’m currently learning **Electronics Lab Skills,Circuit Analysis and Design,Microcontrollers and Embedded Systems**
 
